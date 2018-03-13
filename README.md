@@ -15,3 +15,12 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm start
 ```
 
+### Heroku Deployment Process
+
+#### Our code
+#### Push to Heroku
+#### Install NPM Modules
+#### Run 'postinstall'
+#### Run server.js (i.e. run 'start')
+#### xyz.herokuapp.com
+
